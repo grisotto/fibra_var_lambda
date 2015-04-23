@@ -1,0 +1,1932 @@
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+{Undefined function 'suplabel' for input arguments of type 'char'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('guardaImagem', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/guardaImagem.m', 53)" style="font-weight:bold">guardaImagem</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/guardaImagem.m',53,0)">line 53</a>)
+suplabel(label,'x',[.09 .1 .84 .84]);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('muestraMateria', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/muestraMateria.m', 12)" style="font-weight:bold">muestraMateria</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/muestraMateria.m',12,0)">line 12</a>)
+guardaImagem(model,3,[ 1 2 ],{'pg2' 'pg1'},[ 1 1 ],label,nome,2);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_Fig2', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_Fig2.m', 105)" style="font-weight:bold">Tripathi_Fig2</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_Fig2.m',105,0)">line 105</a>)
+                muestraMateria(model,label,nome);
+} 
+Tripathi_Fig2
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+{Undefined function 'suplabel' for input arguments of type 'char'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('guardaImagem', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/guardaImagem.m', 53)" style="font-weight:bold">guardaImagem</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/guardaImagem.m',53,0)">line 53</a>)
+suplabel(label,'x',[.09 .1 .84 .84]);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('muestraMateria', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/muestraMateria.m', 12)" style="font-weight:bold">muestraMateria</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/muestraMateria.m',12,0)">line 12</a>)
+guardaImagem(model,3,[ 1 2 ],{'pg2' 'pg1'},[ 1 1 ],label,nome,2);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_Fig2', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_Fig2.m', 105)" style="font-weight:bold">Tripathi_Fig2</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_Fig2.m',105,0)">line 105</a>)
+                muestraMateria(model,label,nome);
+} 
+close
+quit
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+{Undefined function 'suplabel' for input arguments of type 'char'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('guardaImagem', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/guardaImagem.m', 53)" style="font-weight:bold">guardaImagem</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/guardaImagem.m',53,0)">line 53</a>)
+suplabel(label,'x',[.09 .1 .84 .84]);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('muestraMateria', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/muestraMateria.m', 12)" style="font-weight:bold">muestraMateria</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/muestraMateria.m',12,0)">line 12</a>)
+guardaImagem(model,3,[ 1 2 ],{'pg2' 'pg1'},[ 1 1 ],label,nome,2);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_Fig2', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_Fig2.m', 105)" style="font-weight:bold">Tripathi_Fig2</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_Fig2.m',105,0)">line 105</a>)
+                muestraMateria(model,label,nome);
+} 
+Tripathi_b
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+A fase do dset2 eh agora igual a 90.
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_b.m', 147)" style="font-weight:bold">Tripathi_b</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_b.m',147,0)">line 147</a>)
+Ja mudou de fase duas vezes e aa1 segue sendo muito baixo
+} 
+Tripathi_Fig2
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+{Undefined function 'suplabel' for input arguments of type 'char'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('guardaImagem', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/guardaImagem.m', 53)" style="font-weight:bold">guardaImagem</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/guardaImagem.m',53,0)">line 53</a>)
+suplabel(label,'x',[.09 .1 .84 .84]);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('muestraMateria', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/muestraMateria.m', 12)" style="font-weight:bold">muestraMateria</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/muestraMateria.m',12,0)">line 12</a>)
+guardaImagem(model,3,[ 1 2 ],{'pg2' 'pg1'},[ 1 1 ],label,nome,2);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_Fig2', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_Fig2.m', 105)" style="font-weight:bold">Tripathi_Fig2</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05-Maio/4Paulo/Tripathi_Fig2.m',105,0)">line 105</a>)
+                muestraMateria(model,label,nome);
+} 
+close
+quit
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+{Undefined function 'suplabel' for input arguments of type 'char'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('guardaImagem', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05_Maio/4Paulo/guardaImagem.m', 53)" style="font-weight:bold">guardaImagem</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05_Maio/4Paulo/guardaImagem.m',53,0)">line 53</a>)
+suplabel(label,'x',[.09 .1 .84 .84]);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('muestraMateria', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05_Maio/4Paulo/muestraMateria.m', 12)" style="font-weight:bold">muestraMateria</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05_Maio/4Paulo/muestraMateria.m',12,0)">line 12</a>)
+guardaImagem(model,3,[ 1 2 ],{'pg2' 'pg1'},[ 1 1 ],label,nome,2);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_Fig2', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05_Maio/4Paulo/Tripathi_Fig2.m', 105)" style="font-weight:bold">Tripathi_Fig2</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Grisotto/Comsol/2014/05_Maio/4Paulo/Tripathi_Fig2.m',105,0)">line 105</a>)
+                muestraMateria(model,label,nome);
+} 
+close
+quit
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+{Undefined function 'suplabel' for input arguments of type 'char'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('guardaImagem', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/guardaImagem.m', 53)" style="font-weight:bold">guardaImagem</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/guardaImagem.m',53,0)">line 53</a>)
+suplabel(label,'x',[.09 .1 .84 .84]);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('muestraMateria', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/muestraMateria.m', 12)" style="font-weight:bold">muestraMateria</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/muestraMateria.m',12,0)">line 12</a>)
+guardaImagem(model,3,[ 1 2 ],{'pg2' 'pg1'},[ 1 1 ],label,nome,2);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/Tripathi_b.m', 105)" style="font-weight:bold">Tripathi_b</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/Tripathi_b.m',105,0)">line 105</a>)
+                muestraMateria(model,label,nome);
+} 
+Tripathi_b
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+a1^2 = 0.65098
+a2^2 = 0.19421
+chute =    1.4835
+
+Calcula os modos para lambda = 0.72
+a1^2 = 0.66056
+a2^2 = 0.18866
+chute =     1.484133535278036e+00
+
+Calcula os modos para lambda = 0.74
+a1^2 = 0.67062
+a2^2 = 0.1832
+chute =     1.483659556774146e+00
+
+Calcula os modos para lambda = 0.76
+a1^2 = 0.68111
+a2^2 = 0.17723
+chute =     1.483233540354184e+00
+
+Calcula os modos para lambda = 0.78
+a1^2 = 0.69201
+a2^2 = 0.17095
+chute =     1.482828889176292e+00
+
+Calcula os modos para lambda = 0.8
+a1^2 = 0.70327
+a2^2 = 0.16438
+chute =     1.482443284285416e+00
+
+Calcula os modos para lambda = 0.82
+a1^2 = 0.71485
+a2^2 = 0.15751
+chute =     1.482074681774156e+00
+
+Calcula os modos para lambda = 0.84
+a1^2 = 0.72671
+a2^2 = 0.15037
+chute =     1.481721274455958e+00
+
+Calcula os modos para lambda = 0.86
+a1^2 = 0.73881
+a2^2 = 0.14297
+chute =     1.481381459614045e+00
+
+Calcula os modos para lambda = 0.88
+a1^2 = 0.7511
+a2^2 = 0.13532
+chute =     1.481053811752535e+00
+
+Calcula os modos para lambda = 0.9
+a1^2 = 0.76352
+a2^2 = 0.12747
+chute =     1.480737059484559e+00
+
+Calcula os modos para lambda = 0.92
+a1^2 = 0.77603
+a2^2 = 0.11944
+chute =     1.480430065856268e+00
+
+Calcula os modos para lambda = 0.94
+a1^2 = 0.78857
+a2^2 = 0.11126
+chute =     1.480131811535667e+00
+
+Calcula os modos para lambda = 0.96
+a1^2 = 0.80107
+a2^2 = 0.10298
+chute =     1.479841380400417e+00
+
+Calcula os modos para lambda = 0.98
+a1^2 = 0.81348
+a2^2 = 0.094648
+chute =     1.479557947141290e+00
+
+Calcula os modos para lambda = 1
+a1^2 = 0.82572
+a2^2 = 0.086306
+chute =     1.479280766565938e+00
+
+Calcula os modos para lambda = 1.02
+a1^2 = 0.83773
+a2^2 = 0.07801
+chute =     1.479009164341350e+00
+
+Calcula os modos para lambda = 1.04
+a1^2 = 0.84944
+a2^2 = 0.06982
+chute =     1.478742528958617e+00
+
+Calcula os modos para lambda = 1.06
+a1^2 = 0.86076
+a2^2 = 0.061796
+chute =     1.478480304738871e+00
+
+Calcula os modos para lambda = 1.08
+a1^2 = 0.87162
+a2^2 = 0.054
+chute =     1.478221985728659e+00
+
+Calcula os modos para lambda = 1.1
+a1^2 = 0.88195
+a2^2 = 0.046498
+chute =     1.477967110358580e+00
+
+Calcula os modos para lambda = 1.12
+a1^2 = 0.89166
+a2^2 = 0.039353
+chute =     1.477715256757306e+00
+
+Calcula os modos para lambda = 1.14
+a1^2 = 0.90066
+a2^2 = 0.03263
+chute =     1.477466038631085e+00
+
+Calcula os modos para lambda = 1.16
+a1^2 = 0.90888
+a2^2 = 0.026393
+chute =     1.477219101631986e+00
+
+Calcula os modos para lambda = 1.18
+a1^2 = 0.91623
+a2^2 = 0.0207
+chute =     1.476974120149443e+00
+
+Calcula os modos para lambda = 1.2
+a1^2 = 0.92264
+a2^2 = 0.015608
+chute =     1.476730794469982e+00
+
+Calcula os modos para lambda = 1.22
+a1^2 = 0.92802
+a2^2 = 0.011169
+chute =     1.476488848257436e+00
+
+Calcula os modos para lambda = 1.24
+a1^2 = 0.93231
+a2^2 = 0.0074261
+chute =     1.476248026312909e+00
+
+Calcula os modos para lambda = 1.26
+a1^2 = 0.93542
+a2^2 = 0.004418
+chute =     1.476008092579493e+00
+
+Calcula os modos para lambda = 1.28
+a1^2 = 0.93729
+a2^2 = 0.0021736
+chute =     1.475768828361805e+00
+
+Calcula os modos para lambda = 1.3
+a1^2 = 0.93786
+a2^2 = 0.00071279
+chute =     1.475530030734182e+00
+
+Calcula os modos para lambda = 1.32
+a1^2 = 0.93708
+a2^2 = 4.5738e-05
+chute =     1.475291511114838e+00
+
+Calcula os modos para lambda = 1.34
+a1^2 = 0.9349
+a2^2 = 6.5475e-05
+chute =     1.475053093986805e+00
+
+Calcula os modos para lambda = 1.36
+a1^2 = 0.93127
+a2^2 = 0.0010805
+chute =     1.474814615748325e+00
+
+Calcula os modos para lambda = 1.38
+a1^2 = 0.92618
+a2^2 = 0.00098146
+chute =     1.474575923678077e+00
+
+Calcula os modos para lambda = 1.4
+a1^2 = 0.91959
+a2^2 = 0.0019831
+chute =     1.474336875002233e+00
+
+Calcula os modos para lambda = 1.42
+a1^2 = 0.9115
+a2^2 = 0.0036508
+chute =     1.474097336051972e+00
+
+Calcula os modos para lambda = 1.44
+a1^2 = 0.90191
+a2^2 = 0.0061697
+chute =     1.473857181501705e+00
+
+Calcula os modos para lambda = 1.46
+a1^2 = 0.89083
+a2^2 = 0.0061367
+chute =     1.473616293679094e+00
+
+Calcula os modos para lambda = 1.48
+a1^2 = 0.8783
+a2^2 = 0.0069665
+chute =     1.473374561939283e+00
+
+Calcula os modos para lambda = 1.5
+a1^2 = 0.86435
+a2^2 = 0.014353
+chute =     1.473131882096673e+00
+
+Calcula os modos para lambda = 1.52
+a1^2 = 0.84903
+a2^2 = 0.029073
+chute =     1.472888155908034e+00
+
+Calcula os modos para lambda = 1.54
+a1^2 = 0.83243
+a2^2 = 0.03256
+chute =     1.472643290601947e+00
+
+Calcula os modos para lambda = 1.56
+a1^2 = 0.81462
+a2^2 = 0.040917
+chute =     1.472397198449688e+00
+
+Calcula os modos para lambda = 1.58
+a1^2 = 0.79571
+a2^2 = 0.032714
+chute =     1.472149796373496e+00
+
+Calcula os modos para lambda = 1.6
+a1^2 = 0.77584
+a2^2 = 0.054585
+Tempo decorrido: 0h:46m:28.25s
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+a1^2 = 0.65098
+a2^2 = 0.19421
+chute =    1.4835
+
+Calcula os modos para lambda = 0.72
+a1^2 = 0.66056
+a2^2 = 0.18878
+chute =     1.484133535278043e+00
+
+Calcula os modos para lambda = 0.74
+a1^2 = 0.67062
+a2^2 = 0.1832
+chute =     1.483659556774139e+00
+
+Calcula os modos para lambda = 0.76
+a1^2 = 0.68111
+a2^2 = 0.17723
+chute =     1.483233540354189e+00
+
+Calcula os modos para lambda = 0.78
+a1^2 = 0.69201
+a2^2 = 0.17095
+chute =     1.482828889176278e+00
+
+Calcula os modos para lambda = 0.8
+a1^2 = 0.70327
+a2^2 = 0.16438
+chute =     1.482443284285420e+00
+
+Calcula os modos para lambda = 0.82
+a1^2 = 0.71485
+a2^2 = 0.15751
+chute =     1.482074681774153e+00
+
+Calcula os modos para lambda = 0.84
+a1^2 = 0.72671
+a2^2 = 0.15037
+chute =     1.481721274455946e+00
+
+Calcula os modos para lambda = 0.86
+a1^2 = 0.73881
+a2^2 = 0.14297
+chute =     1.481381459614009e+00
+
+Calcula os modos para lambda = 0.88
+a1^2 = 0.7511
+a2^2 = 0.13532
+chute =     1.481053811752521e+00
+
+Calcula os modos para lambda = 0.9
+a1^2 = 0.76352
+a2^2 = 0.12747
+chute =     1.480737059484567e+00
+
+Calcula os modos para lambda = 0.92
+a1^2 = 0.77603
+a2^2 = 0.11944
+chute =     1.480430065856258e+00
+
+Calcula os modos para lambda = 0.94
+a1^2 = 0.78857
+a2^2 = 0.11126
+chute =     1.480131811535678e+00
+
+Calcula os modos para lambda = 0.96
+a1^2 = 0.80107
+a2^2 = 0.10298
+chute =     1.479841380400445e+00
+
+Calcula os modos para lambda = 0.98
+a1^2 = 0.81348
+a2^2 = 0.094648
+chute =     1.479557947141309e+00
+
+Calcula os modos para lambda = 1
+a1^2 = 0.82572
+a2^2 = 0.086306
+chute =     1.479280766565932e+00
+
+Calcula os modos para lambda = 1.02
+a1^2 = 0.83773
+a2^2 = 0.07801
+chute =     1.479009164341333e+00
+
+Calcula os modos para lambda = 1.04
+a1^2 = 0.84944
+a2^2 = 0.06982
+chute =     1.478742528958625e+00
+
+Calcula os modos para lambda = 1.06
+a1^2 = 0.86076
+a2^2 = 0.061796
+chute =     1.478480304738862e+00
+
+Calcula os modos para lambda = 1.08
+a1^2 = 0.87162
+a2^2 = 0.054
+chute =     1.478221985728660e+00
+
+Calcula os modos para lambda = 1.1
+a1^2 = 0.88195
+a2^2 = 0.046498
+chute =     1.477967110358585e+00
+
+Calcula os modos para lambda = 1.12
+a1^2 = 0.89166
+a2^2 = 0.039353
+chute =     1.477715256757302e+00
+
+Calcula os modos para lambda = 1.14
+a1^2 = 0.90066
+a2^2 = 0.03263
+chute =     1.477466038631074e+00
+
+Calcula os modos para lambda = 1.16
+a1^2 = 0.90888
+a2^2 = 0.026393
+chute =     1.477219101631994e+00
+
+Calcula os modos para lambda = 1.18
+a1^2 = 0.91623
+a2^2 = 0.0207
+chute =     1.476974120149442e+00
+
+Calcula os modos para lambda = 1.2
+a1^2 = 0.92264
+a2^2 = 0.015608
+chute =     1.476730794469970e+00
+
+Calcula os modos para lambda = 1.22
+a1^2 = 0.92802
+a2^2 = 0.011169
+chute =     1.476488848257451e+00
+
+Calcula os modos para lambda = 1.24
+a1^2 = 0.93231
+a2^2 = 0.0074261
+chute =     1.476248026312917e+00
+
+Calcula os modos para lambda = 1.26
+a1^2 = 0.93542
+a2^2 = 0.004418
+chute =     1.476008092579487e+00
+
+Calcula os modos para lambda = 1.28
+a1^2 = 0.93729
+a2^2 = 0.0021736
+chute =     1.475768828361815e+00
+
+Calcula os modos para lambda = 1.3
+a1^2 = 0.93786
+a2^2 = 0.00071279
+chute =     1.475530030734190e+00
+
+Calcula os modos para lambda = 1.32
+a1^2 = 0.93708
+a2^2 = 4.5738e-05
+chute =     1.475291511114836e+00
+
+Calcula os modos para lambda = 1.34
+a1^2 = 0.9349
+a2^2 = 0.00014155
+chute =     1.475053093986801e+00
+
+Calcula os modos para lambda = 1.36
+a1^2 = 0.93127
+a2^2 = 0.000474
+chute =     1.474814615748327e+00
+
+Calcula os modos para lambda = 1.38
+a1^2 = 0.92618
+a2^2 = 0.0027491
+chute =     1.474575923678082e+00
+
+Calcula os modos para lambda = 1.4
+a1^2 = 0.91959
+a2^2 = 0.002067
+chute =     1.474336875002230e+00
+
+Calcula os modos para lambda = 1.42
+a1^2 = 0.9115
+a2^2 = 0.0037699
+chute =     1.474097336051968e+00
+
+Calcula os modos para lambda = 1.44
+a1^2 = 0.90191
+a2^2 = 0.0059068
+chute =     1.473857181501709e+00
+
+Calcula os modos para lambda = 1.46
+a1^2 = 0.89083
+a2^2 = 0.0094355
+chute =     1.473616293679091e+00
+
+Calcula os modos para lambda = 1.48
+a1^2 = 0.8783
+a2^2 = 0.0091278
+chute =     1.473374561939280e+00
+
+Calcula os modos para lambda = 1.5
+a1^2 = 0.86435
+a2^2 = 0.011238
+chute =     1.473131882096670e+00
+
+Calcula os modos para lambda = 1.52
+a1^2 = 0.84903
+a2^2 = 0.018897
+chute =     1.472888155908040e+00
+
+Calcula os modos para lambda = 1.54
+a1^2 = 0.83243
+a2^2 = 0.035038
+chute =     1.472643290601950e+00
+
+Calcula os modos para lambda = 1.56
+a1^2 = 0.81462
+a2^2 = 0.038854
+chute =     1.472397198449688e+00
+
+Calcula os modos para lambda = 1.58
+a1^2 = 0.79571
+a2^2 = 0.047205
+chute =     1.472149796373498e+00
+
+Calcula os modos para lambda = 1.6
+a1^2 = 0.77584
+a2^2 = 0.039661
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Vectors must be the same lengths.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b', '/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/Tripathi_b.m', 224)" style="font-weight:bold">Tripathi_b</a> (<a href="matlab: opentoline('/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/Tripathi_b.m',224,0)">line 224</a>)
+        plot(lmbs,dados(:,2),'r')
+} 
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+a1^2 = 0.65098
+a2^2 = 0.19421
+chute =    1.4835
+
+Calcula os modos para lambda = 0.72
+a1^2 = 0.66056
+a2^2 = 0.18878
+chute =     1.484133535278042e+00
+
+Calcula os modos para lambda = 0.74
+a1^2 = 0.67062
+a2^2 = 0.1832
+chute =     1.483659556774148e+00
+
+Calcula os modos para lambda = 0.76
+a1^2 = 0.68111
+a2^2 = 0.17723
+chute =     1.483233540354178e+00
+
+Calcula os modos para lambda = 0.78
+a1^2 = 0.69201
+a2^2 = 0.17095
+chute =     1.482828889176286e+00
+
+Calcula os modos para lambda = 0.8
+a1^2 = 0.70327
+a2^2 = 0.16438
+chute =     1.482443284285426e+00
+
+Calcula os modos para lambda = 0.82
+a1^2 = 0.71485
+a2^2 = 0.15751
+chute =     1.482074681774144e+00
+
+Calcula os modos para lambda = 0.84
+a1^2 = 0.72671
+a2^2 = 0.15037
+chute =     1.481721274455941e+00
+
+Calcula os modos para lambda = 0.86
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('Tripathi_b', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b.m', 99)" style="font-weight:bold">Tripathi_b</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b.m',99,0)">line 99</a>)
+
+} 
+Tripathi_b
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+a1^2 = 0.65098
+a2^2 = 0.19421
+chute =     1.483517672949675e+00
+
+Calcula os modos para lambda = 0.9
+a1^2 = 0.76352
+a2^2 = 0.072645
+chute =     1.476985218892464e+00
+
+Calcula os modos para lambda = 1.1
+a1^2 = 0.88195
+a2^2 = 0.046496
+chute =     1.474553168964805e+00
+
+Calcula os modos para lambda = 1.3
+a1^2 = 0.93786
+a2^2 = 0.00071277
+chute =     1.473052768280119e+00
+
+Calcula os modos para lambda = 1.5
+a1^2 = 0.86435
+a2^2 = 0.02546
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Vectors must be the same lengths.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b.m', 224)" style="font-weight:bold">Tripathi_b</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b.m',224,0)">line 224</a>)
+        plot(lmbs,dados(:,2),'r')
+} 
+ll
+
+ll =
+
+     5
+
+lmbs
+
+lmbs =
+
+  Columns 1 through 4
+
+     7.000000000000000e-01     8.999999999999999e-01     1.100000000000000e+00     1.300000000000000e+00
+
+  Column 5
+
+     1.500000000000000e+00
+
+dados
+
+dados =
+
+  Columns 1 through 4
+
+     7.000000000000000e-01     6.509814767359182e-01     1.942126339087198e-01     1.261730953239650e-02
+     7.200000000000000e-01     6.605638419193949e-01     1.886589573758755e-01     1.260785715463012e-02
+     7.400000000000000e-01     6.706196840212346e-01     1.831952180917687e-01     1.259947290645912e-02
+     7.600000000000000e-01     6.811135372460426e-01     1.772258910998687e-01     1.259204883118905e-02
+     7.799999999999999e-01     6.920087975207659e-01     1.709512556759819e-01     1.258549127838574e-02
+     7.999999999999999e-01     7.032673134786018e-01     1.643767460226789e-01     1.257971871320531e-02
+     8.200000000000000e-01     7.148490200151616e-01     1.575114973294710e-01     1.257465987252258e-02
+     8.400000000000000e-01     7.267116126070191e-01     1.503686641001296e-01     1.257025224513374e-02
+     8.600000000000000e-01     7.388102618550252e-01     1.429656953125237e-01     1.256644081267342e-02
+     8.799999999999999e-01     7.510973687528771e-01     1.353245624516943e-01     1.256317699809372e-02
+     8.999999999999999e-01     7.635223625978528e-01     1.274719335524528e-01     1.256041778075695e-02
+     9.199999999999999e-01     7.760315440027596e-01     1.194392871993567e-01     1.255812495307997e-02
+     9.399999999999999e-01     7.885679763719009e-01     1.112629342581468e-01     1.255626449142769e-02
+     9.600000000000000e-01     8.010714293969655e-01     1.029839759747175e-01     1.255480601887591e-02
+     9.800000000000000e-01     8.134783786110249e-01     9.464814910992207e-02     1.255372235100344e-02
+     1.000000000000000e+00     8.257220651744942e-01     8.630557712210979e-02     1.255298910431378e-02
+     1.020000000000000e+00     8.377326200263860e-01     7.801040850645899e-02     1.255258435857296e-02
+     1.040000000000000e+00     8.494372554427604e-01     6.982034063068190e-02     1.255248837029375e-02
+     1.060000000000000e+00     8.607605280252542e-01     6.179602859136071e-02     1.255268332089111e-02
+     1.080000000000000e+00     8.716246754745902e-01     5.400037720001484e-02     1.255315309918299e-02
+     1.100000000000000e+00     8.819500283182847e-01     4.649772157641551e-02     1.255388311363198e-02
+     1.120000000000000e+00     8.916554962713179e-01     3.935290720361550e-02     1.255486012564972e-02
+     1.140000000000000e+00     9.006591312599205e-01     3.263027684168914e-02     1.255607210897747e-02
+     1.160000000000000e+00     9.088787595297217e-01     2.639258414444126e-02     1.255750811920594e-02
+     1.180000000000000e+00     9.162326843626156e-01     2.069985304813551e-02     1.255915818509832e-02
+     1.200000000000000e+00     9.226404475824069e-01     1.560820625395659e-02     1.256101321070827e-02
+     1.220000000000000e+00     9.280236474469267e-01     1.116869050831359e-02     1.256306488761865e-02
+     1.240000000000000e+00     9.323067981095480e-01     7.426128366176349e-03     1.256530561946984e-02
+     1.260000000000000e+00     9.354182220955048e-01     4.418028013753349e-03     1.256772845362965e-02
+     1.280000000000000e+00     9.372909622645313e-01     2.173582382816551e-03     1.257032702127658e-02
+     1.300000000000000e+00     9.378636966828898e-01     7.127917914474895e-04     1.257309548160899e-02
+     1.320000000000000e+00     9.370816437659976e-01     4.573808266778701e-05     1.257602847744897e-02
+     1.340000000000000e+00     9.348974450422464e-01     6.547471241731084e-05     1.257912094372511e-02
+     1.360000000000000e+00     9.312720079363976e-01     1.080514092909171e-03     1.258236879908573e-02
+     1.380000000000000e+00     9.261753100920860e-01     9.814585673450086e-04     1.258576675447356e-02
+     1.400000000000000e+00     9.195871612197831e-01     1.983055494867120e-03     1.258931314167380e-02
+     1.420000000000000e+00     9.114979355328221e-01     3.650787551682057e-03     1.259300243850797e-02
+     1.440000000000000e+00     9.019093027169569e-01     6.169678533835522e-03     1.259683273114823e-02
+     1.460000000000000e+00     8.908349922720842e-01     6.136740177141129e-03     1.260079956959467e-02
+     1.480000000000000e+00     8.783016339044196e-01     6.966516508983703e-03     1.260490441976581e-02
+     1.500000000000000e+00     8.643497194903199e-01     1.435347488962342e-02     1.260913521470502e-02
+     1.520000000000000e+00     8.490346888445330e-01     2.907336781923666e-02     1.261349985074904e-02
+     1.540000000000000e+00     8.324281095010525e-01     3.255952234701329e-02     1.261799127903115e-02
+     1.560000000000000e+00     8.146188418300679e-01     4.091667337630628e-02     1.262260882392805e-02
+     1.580000000000000e+00     7.957139780680466e-01     3.271448194983977e-02     1.262735070762318e-02
+     1.600000000000000e+00     7.758392883086735e-01     5.458451125385645e-02     1.263221395587176e-02
+     7.000000000000000e-01     6.509814767359583e-01     1.942126397978619e-01     1.261730953206681e-02
+     7.200000000000000e-01     6.605638419195563e-01     1.887830690066800e-01     1.260785717331804e-02
+     7.400000000000000e-01     6.706196840404161e-01     1.831952190310203e-01     1.259947290669195e-02
+     7.600000000000000e-01     6.811135372538529e-01     1.772258897609937e-01     1.259204883081838e-02
+     7.799999999999999e-01     6.920087975232475e-01     1.709512557966822e-01     1.258549127783067e-02
+     7.999999999999999e-01     7.032673134846921e-01     1.643767455692347e-01     1.257971871322393e-02
+     8.200000000000000e-01     7.148490200201151e-01     1.575114975675477e-01     1.257465987263061e-02
+     8.400000000000000e-01     7.267116126062353e-01     1.503686643167602e-01     1.257025224497355e-02
+     8.600000000000000e-01     7.388102618569308e-01     1.429656953470917e-01     1.256644081273861e-02
+     8.799999999999999e-01     7.510973687536985e-01     1.353245626639209e-01     1.256317699780874e-02
+     8.999999999999999e-01     7.635223625946020e-01     1.274719344445440e-01     1.256041778073460e-02
+     9.199999999999999e-01     7.760315439994839e-01     1.194392868502160e-01     1.255812495354935e-02
+     9.399999999999999e-01     7.885679763743176e-01     1.112629342199150e-01     1.255626449142024e-02
+     9.600000000000000e-01     8.010714293215804e-01     1.029839758897030e-01     1.255480601928756e-02
+     9.800000000000000e-01     8.134783785765184e-01     9.464814912977557e-02     1.255372235122323e-02
+     1.000000000000000e+00     8.257220651448873e-01     8.630557718122316e-02     1.255298910435289e-02
+     1.020000000000000e+00     8.377326200262042e-01     7.801040845259523e-02     1.255258435856737e-02
+     1.040000000000000e+00     8.494372553925055e-01     6.982034071658307e-02     1.255248837060109e-02
+     1.060000000000000e+00     8.607605279747824e-01     6.179602871099316e-02     1.255268332122266e-02
+     1.080000000000000e+00     8.716246755787087e-01     5.400037712297259e-02     1.255315309947543e-02
+     1.100000000000000e+00     8.819500281498618e-01     4.649772168679724e-02     1.255388311364874e-02
+     1.120000000000000e+00     8.916554963257105e-01     3.935290718788143e-02     1.255486012581736e-02
+     1.140000000000000e+00     9.006591311994260e-01     3.263027692435475e-02     1.255607210873440e-02
+     1.160000000000000e+00     9.088787596042536e-01     2.639258412393075e-02     1.255750811921991e-02
+     1.180000000000000e+00     9.162326842877910e-01     2.069985308582636e-02     1.255915818495396e-02
+     1.200000000000000e+00     9.226404476642259e-01     1.560820610637802e-02     1.256101321078464e-02
+     1.220000000000000e+00     9.280236475152508e-01     1.116869051477386e-02     1.256306488771271e-02
+     1.240000000000000e+00     9.323067981186233e-01     7.426128447152154e-03     1.256530561948288e-02
+     1.260000000000000e+00     9.354182222786072e-01     4.418028029944647e-03     1.256772845362872e-02
+     1.280000000000000e+00     9.372909620908190e-01     2.173582422334416e-03     1.257032702116389e-02
+     1.300000000000000e+00     9.378636965065155e-01     7.127917649480844e-04     1.257309548137337e-02
+     1.320000000000000e+00     9.370816437853713e-01     4.573808962854685e-05     1.257602847752254e-02
+     1.340000000000000e+00     9.348974450566278e-01     1.415537332592553e-04     1.257912126654200e-02
+     1.360000000000000e+00     9.312720080965659e-01     4.740015631252602e-04     1.258236859769002e-02
+     1.380000000000000e+00     9.261753103455526e-01     2.749052857268315e-03     1.258576745381951e-02
+     1.400000000000000e+00     9.195871610497518e-01     2.066975278614843e-03     1.258931257083546e-02
+     1.420000000000000e+00     9.114979354738583e-01     3.769908493693068e-03     1.259300254683662e-02
+     1.440000000000000e+00     9.019093026356978e-01     5.906764521077259e-03     1.259683221689891e-02
+     1.460000000000000e+00     8.908349918098609e-01     9.435469855804249e-03     1.260079994363617e-02
+     1.480000000000000e+00     8.783016344815098e-01     9.127832563184026e-03     1.260490150854178e-02
+     1.500000000000000e+00     8.643497201028769e-01     1.123755813305749e-02     1.260913841796946e-02
+     1.520000000000000e+00     8.490346893127074e-01     1.889720240007898e-02     1.261349918580614e-02
+     1.540000000000000e+00     8.324281100062010e-01     3.503820049020189e-02     1.261799158462882e-02
+     1.560000000000000e+00     8.146188416876566e-01     3.885350581299182e-02     1.262260883381124e-02
+     1.580000000000000e+00     7.957139786265796e-01     4.720532426907453e-02     1.262735033213161e-02
+     1.600000000000000e+00     7.758392885723762e-01     3.966079981647205e-02     1.263221449692082e-02
+     7.000000000000000e-01     6.509814767357998e-01     1.942126395425475e-01     1.261730953193270e-02
+     7.200000000000000e-01     6.605638419170590e-01     1.887830688429431e-01     1.260785717321187e-02
+     7.400000000000000e-01     6.706196840306874e-01     1.831952190203114e-01     1.259947290658765e-02
+     7.600000000000000e-01     6.811135372481572e-01     1.772258902092207e-01     1.259204883127846e-02
+     7.799999999999999e-01     6.920087975328725e-01     1.709512559618591e-01     1.258549127825536e-02
+     7.999999999999999e-01     7.032673134806936e-01     1.643767456651022e-01     1.257971871346794e-02
+     8.200000000000000e-01     7.148490200103270e-01     1.575114975692597e-01     1.257465987268276e-02
+     8.400000000000000e-01     7.267116126008679e-01     1.503686644510985e-01     1.257025224517100e-02
+     7.000000000000000e-01     6.509814767354904e-01     1.942126443082905e-01     1.261730953217298e-02
+     8.999999999999999e-01     7.635223625684691e-01     7.264548197888723e-02     1.256041790897213e-02
+     1.100000000000000e+00     8.819500282592790e-01     4.649585706186134e-02     1.255388311732933e-02
+     1.300000000000000e+00     9.378636965720119e-01     7.127690565492523e-04     1.257309548035078e-02
+     1.500000000000000e+00     8.643497204041434e-01     2.545996294558289e-02     1.260913556812424e-02
+
+  Columns 5 through 6
+
+     1.405675026470155e-03                         0
+     1.444754007378757e-03                         0
+     1.483898611179368e-03                         0
+     1.523105979558403e-03                         0
+     1.562373655646931e-03                         0
+     1.601699532785883e-03                         0
+     1.641081806714739e-03                         0
+     1.680518935867958e-03                         0
+     1.720009608331630e-03                         0
+     1.759552713824331e-03                         0
+     1.799147319459182e-03                         0
+     1.838792649332843e-03                         0
+     1.878488067011075e-03                         0
+     1.918233060032692e-03                         0
+     1.958027227106696e-03                         0
+     1.997870266600144e-03                         0
+     2.037761966301233e-03                         0
+     2.077702195198095e-03                         0
+     2.117690895636404e-03                         0
+     2.157728076569887e-03                         0
+     2.197813807862659e-03                         0
+     2.237948214761865e-03                         0
+     2.278131473916423e-03                         0
+     2.318363808583523e-03                         0
+     2.358645485435629e-03                         0
+     2.398976811356146e-03                         0
+     2.439358130329028e-03                         0
+     2.479789821077771e-03                         0
+     2.520272294696202e-03                         0
+     2.560805992688486e-03                         0
+     2.601391384714935e-03                         0
+     2.642028967671184e-03                         0
+     2.682719232539821e-03                         0
+     2.723462818739808e-03                         0
+     2.764260048471856e-03                         0
+     2.805111983379183e-03                         0
+     2.846018792868499e-03                         0
+     2.886981403009470e-03                         0
+     2.928000126182884e-03                         0
+     2.969076611601951e-03                         0
+     3.010209296407051e-03                         0
+     3.051401293528988e-03                         0
+     3.092652153388720e-03                         0
+     3.133962919017685e-03                         0
+     3.175334347682801e-03                         0
+     3.216766869346799e-03                         0
+     1.405675026433517e-03                         0
+     1.444754009520377e-03                         0
+     1.483898611206902e-03                         0
+     1.523105979513550e-03                         0
+     1.562373655577876e-03                         0
+     1.601699532788325e-03                         0
+     1.641081806728728e-03                         0
+     1.680518935846420e-03                         0
+     1.720009608340511e-03                         0
+     1.759552713784363e-03                         0
+     1.799147319455852e-03                         0
+     1.838792649401677e-03                         0
+     1.878488067009965e-03                         0
+     1.918233060095531e-03                         0
+     1.958027227140891e-03                         0
+     1.997870266606361e-03                         0
+     2.037761966300344e-03                         0
+     2.077702195248721e-03                         0
+     2.117690895692359e-03                         0
+     2.157728076620291e-03                         0
+     2.197813807865545e-03                         0
+     2.237948214791841e-03                         0
+     2.278131473872458e-03                         0
+     2.318363808586188e-03                         0
+     2.358645485408539e-03                         0
+     2.398976811370801e-03                         0
+     2.439358130347014e-03                         0
+     2.479789821079992e-03                         0
+     2.520272294696202e-03                         0
+     2.560805992665394e-03                         0
+     2.601391384666307e-03                         0
+     2.642028967686505e-03                         0
+     2.682719301386083e-03                         0
+     2.723462775147789e-03                         0
+     2.764260202071878e-03                         0
+     2.805111856186482e-03                         0
+     2.846018817350693e-03                         0
+     2.886981285151968e-03                         0
+     2.928000213097581e-03                         0
+     2.969075925865150e-03                         0
+     3.010210061130003e-03                         0
+     3.051401132668996e-03                         0
+     3.092652228290360e-03                         0
+     3.133962921471500e-03                         0
+     3.175334253260109e-03                         0
+     3.216767007123922e-03                         0
+     1.405675026418640e-03                         0
+     1.444754009508165e-03                         0
+     1.483898611194467e-03                         0
+     1.523105979569284e-03                         0
+     1.562373655630722e-03                         0
+     1.601699532819412e-03                         0
+     1.641081806735833e-03                         0
+     1.680518935873065e-03                         0
+     1.405675026445286e-03                         0
+     1.799147337824714e-03                         0
+     2.197813808510141e-03                         0
+     2.601391384454699e-03                         0
+     3.010209380779560e-03                         0
+
+dados(:,2)
+
+ans =
+
+     6.509814767359182e-01
+     6.605638419193949e-01
+     6.706196840212346e-01
+     6.811135372460426e-01
+     6.920087975207659e-01
+     7.032673134786018e-01
+     7.148490200151616e-01
+     7.267116126070191e-01
+     7.388102618550252e-01
+     7.510973687528771e-01
+     7.635223625978528e-01
+     7.760315440027596e-01
+     7.885679763719009e-01
+     8.010714293969655e-01
+     8.134783786110249e-01
+     8.257220651744942e-01
+     8.377326200263860e-01
+     8.494372554427604e-01
+     8.607605280252542e-01
+     8.716246754745902e-01
+     8.819500283182847e-01
+     8.916554962713179e-01
+     9.006591312599205e-01
+     9.088787595297217e-01
+     9.162326843626156e-01
+     9.226404475824069e-01
+     9.280236474469267e-01
+     9.323067981095480e-01
+     9.354182220955048e-01
+     9.372909622645313e-01
+     9.378636966828898e-01
+     9.370816437659976e-01
+     9.348974450422464e-01
+     9.312720079363976e-01
+     9.261753100920860e-01
+     9.195871612197831e-01
+     9.114979355328221e-01
+     9.019093027169569e-01
+     8.908349922720842e-01
+     8.783016339044196e-01
+     8.643497194903199e-01
+     8.490346888445330e-01
+     8.324281095010525e-01
+     8.146188418300679e-01
+     7.957139780680466e-01
+     7.758392883086735e-01
+     6.509814767359583e-01
+     6.605638419195563e-01
+     6.706196840404161e-01
+     6.811135372538529e-01
+     6.920087975232475e-01
+     7.032673134846921e-01
+     7.148490200201151e-01
+     7.267116126062353e-01
+     7.388102618569308e-01
+     7.510973687536985e-01
+     7.635223625946020e-01
+     7.760315439994839e-01
+     7.885679763743176e-01
+     8.010714293215804e-01
+     8.134783785765184e-01
+     8.257220651448873e-01
+     8.377326200262042e-01
+     8.494372553925055e-01
+     8.607605279747824e-01
+     8.716246755787087e-01
+     8.819500281498618e-01
+     8.916554963257105e-01
+     9.006591311994260e-01
+     9.088787596042536e-01
+     9.162326842877910e-01
+     9.226404476642259e-01
+     9.280236475152508e-01
+     9.323067981186233e-01
+     9.354182222786072e-01
+     9.372909620908190e-01
+     9.378636965065155e-01
+     9.370816437853713e-01
+     9.348974450566278e-01
+     9.312720080965659e-01
+     9.261753103455526e-01
+     9.195871610497518e-01
+     9.114979354738583e-01
+     9.019093026356978e-01
+     8.908349918098609e-01
+     8.783016344815098e-01
+     8.643497201028769e-01
+     8.490346893127074e-01
+     8.324281100062010e-01
+     8.146188416876566e-01
+     7.957139786265796e-01
+     7.758392885723762e-01
+     6.509814767357998e-01
+     6.605638419170590e-01
+     6.706196840306874e-01
+     6.811135372481572e-01
+     6.920087975328725e-01
+     7.032673134806936e-01
+     7.148490200103270e-01
+     7.267116126008679e-01
+     6.509814767354904e-01
+     7.635223625684691e-01
+     8.819500282592790e-01
+     9.378636965720119e-01
+     8.643497204041434e-01
+
+dados(:2)
+ dados(:2)
+        |
+{Error: Unexpected MATLAB expression.
+} 
+Tripathi_b_rafael
+{Error using mphload (line 97)
+The file
+"/Users/paulogomestl/Documents/Dropbox/Profissional/Jatai/2014/Pesquisa/Simulacao/Grisotto/Comsol/2014/05_Maio/4Paulo/TripathiModel_v43b.mph"
+does not exist
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 38)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',38,0)">line 38</a>)
+model = mphload(fullfile(casa,'TripathiModel_v43b.mph'));
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 97)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',97,0)">line 97</a>)
+Java exception occurred:
+Exception:
+	com.comsol.util.exceptions.UnknownEntityException: Unknown study
+Messages:
+	Unknown study
+	- Tag: std2
+
+Stack trace:
+	at com.comsol.model.internal.impl.ModelEntityListImpl.findObject(Unknown Source)
+	at com.comsol.model.internal.impl.ModelEntityListImpl.findObject(Unknown Source)
+	at com.comsol.model.internal.impl.ModelEntityImpl.a(Unknown Source)
+	at com.comsol.model.internal.impl.ModelImpl.h(Unknown Source)
+	at com.comsol.model.internal.impl.ModelImpl.study(Unknown Source)
+	at com.comsol.model.impl.ModelImpl.study(Unknown Source)
+} 
+Tripathi_b_rafael
+{Error using mphload (line 97)
+The file "/media/backup/Comp/Projeto_optics/novafiber/4Paulo/f8bra_Ge_Si.mph" does not exist
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 38)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',38,0)">line 38</a>)
+model = mphload(fullfile(casa,'f8bra_Ge_Si.mph'));
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+{Error using mphglobal (line 191)
+Java exception occurred:
+Exception:
+	com.comsol.nativejni.FlNativeException: Failed to evaluate expression
+	(rethrown as com.comsol.util.exceptions.FlException)
+Messages:
+	Failed to evaluate expression
+
+	Undefined post expression
+
+	Failed to evaluate variable
+	- Variable: emw2.beta
+	- Global scope
+
+	Failed to evaluate expression
+	- Expression: real(emw2.beta)
+
+	Failed to evaluate expression
+	- Expression: real(emw2.beta)
+
+Stack trace:
+	at evaltree.cpp, row 708, ()
+	at xevaluators.cpp, row 1092, ()
+	at xevaluators.cpp, row 364, ()
+	at postinterp.cpp, row 286, ()
+	at com.comsol.nativejni.xmesh.PostInterp.eval(Native Method)
+	at com.comsol.nativejni.xmesh.PostInterp.eval(Unknown Source)
+	at com.comsol.nativemph.xmesh.e.a(Unknown Source)
+	at com.comsol.post.dataset.u.a(Unknown Source)
+	at com.comsol.post.dataset.ae.a(Unknown Source)
+	at com.comsol.post.dataset.ab.a(Unknown Source)
+	at com.comsol.post.dataset.aa.a(Unknown Source)
+	at com.comsol.post.numerical.k.b(Unknown Source)
+	at com.comsol.post.numerical.b.a(Unknown Source)
+	at com.comsol.post.numerical.g.a(Unknown Source)
+	at com.comsol.post.numerical.k.a(Unknown Source)
+	at com.comsol.post.numerical.b.getData(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.d(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.getData(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.comsol.clientserver.impl.JobImpl.run(Unknown Source)
+	at com.comsol.server.internal.c.a(Unknown Source)
+	at com.comsol.server.internal.c.a(Unknown Source)
+	at com.comsol.server.internal.c$c.a(Unknown Source)
+	at com.comsol.server.internal.c$c.a(Unknown Source)
+	at com.comsol.server.internal.c$c$1.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+	at com.comsol.model.clientserver.ClientManagerImpl.a(Unknown Source)
+	at com.comsol.model.clientserver.ClientManagerImpl.runServerJob(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl$9.a(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl$9.execute(Unknown Source)
+	at com.comsol.model.clientserver.ClientManagerImpl$1.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: Exception:
+	com.comsol.nativejni.FlNativeException: Failed to evaluate expression
+Messages:
+	Undefined post expression
+
+	Failed to evaluate variable
+	- Variable: emw2.beta
+	- Global scope
+
+	Failed to evaluate expression
+	- Expression: real(emw2.beta)
+
+	Failed to evaluate expression
+	- Expression: real(emw2.beta)
+
+	at com.comsol.nativejni.xmesh.PostInterp.eval(Native Method)
+	at com.comsol.nativejni.xmesh.PostInterp.eval(Unknown Source)
+	at com.comsol.nativemph.xmesh.e.a(Unknown Source)
+	at com.comsol.post.dataset.u.a(Unknown Source)
+	at com.comsol.post.dataset.ae.a(Unknown Source)
+	at com.comsol.post.dataset.ab.a(Unknown Source)
+	at com.comsol.post.dataset.aa.a(Unknown Source)
+	at com.comsol.post.numerical.k.b(Unknown Source)
+	at com.comsol.post.numerical.b.a(Unknown Source)
+	at com.comsol.post.numerical.g.a(Unknown Source)
+	at com.comsol.post.numerical.k.a(Unknown Source)
+	at com.comsol.post.numerical.b.getData(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.d(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.getData(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.comsol.clientserver.impl.JobImpl.run(Unknown Source)
+	at com.comsol.server.internal.c.a(Unknown Source)
+	at com.comsol.server.internal.c.a(Unknown Source)
+	at com.comsol.server.internal.c$c.a(Unknown Source)
+	at com.comsol.server.internal.c$c.a(Unknown Source)
+	at com.comsol.server.internal.c$c$1.run(Unknown Source)
+	... 3 more
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 45)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',45,0)">line 45</a>)
+neigs = length(mphglobal(model,'emw2.beta'));
+} 
+model = mphload(fullfile(casa,'TripathiModel_v43b.mph'));
+neigs = length(mphglobal(model,'emw.beta'));
+neigs
+
+neigs =
+
+     6
+
+model = mphload(fullfile(casa,'fibra_Ge_Si.mph'));
+neigs = length(mphglobal(model,'emw2.beta'));
+{Error using mphglobal (line 191)
+Java exception occurred:
+Exception:
+	com.comsol.nativejni.FlNativeException: Failed to evaluate expression
+	(rethrown as com.comsol.util.exceptions.FlException)
+Messages:
+	Failed to evaluate expression
+
+	Undefined post expression
+
+	Failed to evaluate variable
+	- Variable: emw2.beta
+	- Global scope
+
+	Failed to evaluate expression
+	- Expression: real(emw2.beta)
+
+	Failed to evaluate expression
+	- Expression: real(emw2.beta)
+
+Stack trace:
+	at evaltree.cpp, row 708, ()
+	at xevaluators.cpp, row 1092, ()
+	at xevaluators.cpp, row 364, ()
+	at postinterp.cpp, row 286, ()
+	at com.comsol.nativejni.xmesh.PostInterp.eval(Native Method)
+	at com.comsol.nativejni.xmesh.PostInterp.eval(Unknown Source)
+	at com.comsol.nativemph.xmesh.e.a(Unknown Source)
+	at com.comsol.post.dataset.u.a(Unknown Source)
+	at com.comsol.post.dataset.ae.a(Unknown Source)
+	at com.comsol.post.dataset.ab.a(Unknown Source)
+	at com.comsol.post.dataset.aa.a(Unknown Source)
+	at com.comsol.post.numerical.k.b(Unknown Source)
+	at com.comsol.post.numerical.b.a(Unknown Source)
+	at com.comsol.post.numerical.g.a(Unknown Source)
+	at com.comsol.post.numerical.k.a(Unknown Source)
+	at com.comsol.post.numerical.b.getData(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.d(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.getData(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.comsol.clientserver.impl.JobImpl.run(Unknown Source)
+	at com.comsol.server.internal.c.a(Unknown Source)
+	at com.comsol.server.internal.c.a(Unknown Source)
+	at com.comsol.server.internal.c$c.a(Unknown Source)
+	at com.comsol.server.internal.c$c.a(Unknown Source)
+	at com.comsol.server.internal.c$c$1.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+	at com.comsol.model.clientserver.ClientManagerImpl.a(Unknown Source)
+	at com.comsol.model.clientserver.ClientManagerImpl.runServerJob(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl$9.a(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl$9.execute(Unknown Source)
+	at com.comsol.model.clientserver.ClientManagerImpl$1.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: Exception:
+	com.comsol.nativejni.FlNativeException: Failed to evaluate expression
+Messages:
+	Undefined post expression
+
+	Failed to evaluate variable
+	- Variable: emw2.beta
+	- Global scope
+
+	Failed to evaluate expression
+	- Expression: real(emw2.beta)
+
+	Failed to evaluate expression
+	- Expression: real(emw2.beta)
+
+	at com.comsol.nativejni.xmesh.PostInterp.eval(Native Method)
+	at com.comsol.nativejni.xmesh.PostInterp.eval(Unknown Source)
+	at com.comsol.nativemph.xmesh.e.a(Unknown Source)
+	at com.comsol.post.dataset.u.a(Unknown Source)
+	at com.comsol.post.dataset.ae.a(Unknown Source)
+	at com.comsol.post.dataset.ab.a(Unknown Source)
+	at com.comsol.post.dataset.aa.a(Unknown Source)
+	at com.comsol.post.numerical.k.b(Unknown Source)
+	at com.comsol.post.numerical.b.a(Unknown Source)
+	at com.comsol.post.numerical.g.a(Unknown Source)
+	at com.comsol.post.numerical.k.a(Unknown Source)
+	at com.comsol.post.numerical.b.getData(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.d(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.getData(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.comsol.clientserver.impl.JobImpl.run(Unknown Source)
+	at com.comsol.server.internal.c.a(Unknown Source)
+	at com.comsol.server.internal.c.a(Unknown Source)
+	at com.comsol.server.internal.c$c.a(Unknown Source)
+	at com.comsol.server.internal.c$c.a(Unknown Source)
+	at com.comsol.server.internal.c$c$1.run(Unknown Source)
+	... 3 more
+} 
+neigs = length(mphglobal(model,'emw.beta'));
+neigs
+
+neigs =
+
+     6
+
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+{Error using mphinterp (line 328)
+Java exception occurred:
+Exception:
+	com.comsol.nativeutil.properties.InvalidPropertyValueException: Invalid property value
+Messages:
+	Invalid property value
+	- Property: solnum
+
+	'Effective mode index' is an array of integers.
+	- : "1", "2", "3", "4", "5", "6"
+
+Stack trace:
+	at com.comsol.nativeutil.properties.Property.bF_(Unknown Source)
+	at com.comsol.nativeutil.properties.Property.a(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.model.internal.impl.PropValueImpl.set(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl.doSet(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.doSet(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl$12.a(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl$12.execute(Unknown Source)
+	at com.comsol.model.clientserver.ClientManagerImpl$1.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 109)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',109,0)">line 109</a>)
+            nucleoLP02 =
+            mphinterp(model,'emw2.Poavz','dataset','dset1','solnum',posLP02,'CoordErr','on','coord',[0;
+            0])/mphmax(model,'emw2.Poavz','surface','dataset','dset1','solnum',posLP02);
+} 
+nucleoLP02 = mphinterp(model,'emw2.Poavz','dataset','dset1','solutions',posLP02,'CoordErr','on','coord',[0; 0])/mphmax(model,'emw2.Poavz','surface','dataset','dset1','solutions',posLP02);
+{Error using proputil (line 35)
+Unknown property name: solutions
+
+Error in /usr/local/comsol43b/mli/mphinterp.p>mphinterp (line 164)
+
+} 
+nucleoLP02 = mphinterp(model,'emw2.Poavz','dataset','dset1','solutions',posLP02,'CoordErr','on','coord',[0; 0])/mphmax(model,'emw2.Poavz','surface','dataset','dset1','solnum',posLP02);
+{Error using proputil (line 35)
+Unknown property name: solutions
+
+Error in /usr/local/comsol43b/mli/mphinterp.p>mphinterp (line 164)
+
+} 
+nucleoLP02 = mphinterp(model,'emw2.Poavz','dataset','dset1','solnum',posLP02,'CoordErr','on','coord',[0; 0])/mphmax(model,'emw2.Poavz','surface','dataset','dset1','solnum',posLP02);
+{Error using mphinterp (line 328)
+Java exception occurred:
+Exception:
+	com.comsol.nativeutil.properties.InvalidPropertyValueException: Invalid property value
+Messages:
+	Invalid property value
+	- Property: solnum
+
+	'Effective mode index' is an array of integers.
+	- : "1", "2", "3", "4", "5", "6"
+
+Stack trace:
+	at com.comsol.nativeutil.properties.Property.bF_(Unknown Source)
+	at com.comsol.nativeutil.properties.Property.a(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.model.internal.impl.PropValueImpl.set(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl.doSet(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.doSet(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl$12.a(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl$12.execute(Unknown Source)
+	at com.comsol.model.clientserver.ClientManagerImpl$1.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+} 
+posLP02
+
+posLP02 =
+
+     9
+
+nucleoLP02 = mphinterp(model,'emw.Poavz','dataset','dset1','solnum',posLP02,'CoordErr','on','coord',[0; 0])/mphmax(model,'emw.Poavz','surface','dataset','dset1','solnum',posLP02);
+{Error using mphinterp (line 328)
+Java exception occurred:
+Exception:
+	com.comsol.nativeutil.properties.InvalidPropertyValueException: Invalid property value
+Messages:
+	Invalid property value
+	- Property: solnum
+
+	'Effective mode index' is an array of integers.
+	- : "1", "2", "3", "4", "5", "6"
+
+Stack trace:
+	at com.comsol.nativeutil.properties.Property.bF_(Unknown Source)
+	at com.comsol.nativeutil.properties.Property.a(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.nativeutil.properties.az.set(Unknown Source)
+	at com.comsol.model.internal.impl.PropValueImpl.set(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl.doSet(Unknown Source)
+	at com.comsol.model.internal.impl.NumericalFeatureImpl.doSet(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl$12.a(Unknown Source)
+	at com.comsol.model.internal.impl.PropFeatureImpl$12.execute(Unknown Source)
+	at com.comsol.model.clientserver.ClientManagerImpl$1.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+} 
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+A fase do dset2 eh agora igual a 90.
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 145)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',145,0)">line 145</a>)
+Ja mudou de fase duas vezes e aa1 segue sendo muito baixo
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+A fase do dset2 eh agora igual a 90.
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 145)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',145,0)">line 145</a>)
+Ja mudou de fase duas vezes e aa1 segue sendo muito baixo
+} 
+betas
+{Undefined function or variable 'betas'.
+} 
+beta
+{Error using <a href="matlab:helpUtils.errorDocCallback('beta', '/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/specfun/beta.m', 20)" style="font-weight:bold">beta</a> (<a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/specfun/beta.m',20,0)">line 20</a>)
+Not enough input arguments.
+} 
+neigs
+
+neigs =
+
+     6
+
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+A fase do dset2 eh agora igual a 90.
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 145)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',145,0)">line 145</a>)
+Ja mudou de fase duas vezes e aa1 segue sendo muito baixo
+} 
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+A fase do dset2 eh agora igual a 90.
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 146)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',146,0)">line 146</a>)
+Ja mudou de fase duas vezes e aa1 segue sendo muito baixo
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+A fase do dset2 eh agora igual a 90.
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 146)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',146,0)">line 146</a>)
+Ja mudou de fase duas vezes e aa1 segue sendo muito baixo
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+[Warning: Potencia dentro do nucleo para o modo 2 igual a -5.752e-03\n] 
+[> In <a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',121,1)">Tripathi_b_rafael at 121</a>] 
+{Error using <a href="matlab:helpUtils.errorDocCallback('rdivide')" style="font-weight:bold"> ./ </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('buscaLPs', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m', 16)" style="font-weight:bold">buscaLPs</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m',16,0)">line 16</a>)
+campos = mphinterp(model,'emw.Poavz','dataset',dset,'CoordErr','on','coord',[coords(1);
+coords(2)])./mphmax(model,'emw.Poavz','surface','dataset',dset)';
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 124)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',124,0)">line 124</a>)
+                posLPs = buscaLPs( model, 'dset2', [0 0], M(contM), 2, limiar, neigs, nome );
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+[Warning: Potencia dentro do nucleo para o modo 6 igual a 7.231e-07\n] 
+[> In <a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',121,1)">Tripathi_b_rafael at 121</a>] 
+{Error using <a href="matlab:helpUtils.errorDocCallback('rdivide')" style="font-weight:bold"> ./ </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('buscaLPs', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m', 16)" style="font-weight:bold">buscaLPs</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m',16,0)">line 16</a>)
+campos = mphinterp(model,'emw.Poavz','dataset',dset,'CoordErr','on','coord',[coords(1);
+coords(2)])./mphmax(model,'emw.Poavz','surface','dataset',dset)';
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 124)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',124,0)">line 124</a>)
+                posLPs = buscaLPs( model, 'dset2', [0 0], M(contM), 2, limiar, neigs, nome );
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+A fase do dset2 eh agora igual a 90.
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 148)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',148,0)">line 148</a>)
+Ja mudou de fase duas vezes e aa1 segue sendo muito baixo
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+[Warning: Potencia dentro do nucleo para o modo 2 igual a 1.077e-03\n] 
+[> In <a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',121,1)">Tripathi_b_rafael at 121</a>] 
+{Error using <a href="matlab:helpUtils.errorDocCallback('buscaLPs', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m', 38)" style="font-weight:bold">buscaLPs</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m',38,0)">line 38</a>)
+O modo escolhido 1 como modo LP01 nao supera o limiar: 0.1<<<\n
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 124)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',124,0)">line 124</a>)
+                posLPs = buscaLPs( model, 'dset2', [0 0], M(contM), 2, limiar, neigs,
+                nome );
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+Espacamento:
+{Undefined function or variable 'm'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 110)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',110,0)">line 110</a>)
+   m
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+Indice efetivo da fibra monomodo.
+
+neff1 =
+
+    1.4430
+
+Indice calculado para a fibra monomodo.
+
+neff1 =
+
+    1.4430
+
+A fase do dset2 eh agora igual a 90.
+{Error using <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 181)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',181,0)">line 181</a>)
+Ja mudou de fase duas vezes e aa1 segue sendo muito baixo
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+Indice efetivo da fibra monomodo.
+
+neff1 =
+
+    1.4430
+
+Indice calculado para a fibra monomodo.
+
+neff1 =
+
+    1.4430
+
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4739
+
+ Entrei: 1.4739
+
+ans =
+
+    1.4737
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+    1.4737
+
+
+ans =
+
+    1.4737
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+    1.4738
+
+
+ans =
+
+     0
+
+
+ans =
+
+    1.4738
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+    1.4739
+
+[Warning: Potencia dentro do nucleo para o modo 5 igual a 2.275e-07\n] 
+[> In <a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',250,1)">Tripathi_b_rafael at 250</a>] 
+{Error using <a href="matlab:helpUtils.errorDocCallback('rdivide')" style="font-weight:bold"> ./ </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('buscaLPs', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m', 16)" style="font-weight:bold">buscaLPs</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m',16,0)">line 16</a>)
+campos =
+mphinterp(model,'emw.Poavz','dataset',dset,'CoordErr','on','coord',[coords(1);
+coords(2)])./mphmax(model,'emw.Poavz','surface','dataset',dset)';
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 253)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',253,0)">line 253</a>)
+                posLPs = buscaLPs( model, 'dset2', [0 0], M(contM), 2, limiar,
+                neigs, nome );
+} 
+buscaLPs
+{Error using <a href="matlab:helpUtils.errorDocCallback('buscaLPs', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m', 5)" style="font-weight:bold">buscaLPs</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m',5,0)">line 5</a>)
+Not enough input arguments.
+} 
+Tripathi_b_rafael
+>>>>>>>>>>>>>> Calculo SMF + GRIN <<<<<<<<<<<<<<
+========= next = 1 ==========
+======= M = 1 ========
+Calcula os modos para lambda = 0.7
+Indice efetivo da fibra monomodo.
+
+neff1 =
+
+    1.4430
+
+Indice calculado para a fibra monomodo.
+
+neff1 =
+
+    1.4430
+
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4737
+
+ Entrei: 1.4737
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+neff2 =
+
+    1.4738
+
+ Entrei: 1.4738
+
+ans =
+
+    1.4737
+
+
+ans =
+
+    1.4737
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+    1.4737
+
+
+ans =
+
+    1.4737
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+    1.4738
+
+
+ans =
+
+     0
+
+
+ans =
+
+    1.4738
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+[Warning: Potencia dentro do nucleo para o modo 5 igual a 4.326e-07\n] 
+[> In <a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',250,1)">Tripathi_b_rafael at 250</a>] 
+{Error using <a href="matlab:helpUtils.errorDocCallback('rdivide')" style="font-weight:bold"> ./ </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('buscaLPs', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m', 16)" style="font-weight:bold">buscaLPs</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/buscaLPs.m',16,0)">line 16</a>)
+campos =
+mphinterp(model,'emw2.Poavz','dataset',dset,'CoordErr','on','coord',[coords(1);
+coords(2)])./mphmax(model,'emw.Poavz','surface','dataset',dset)';
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Tripathi_b_rafael', '/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m', 253)" style="font-weight:bold">Tripathi_b_rafael</a> (<a href="matlab: opentoline('/media/backup/Comp/Projeto_optics/novafiber/4Paulo/Tripathi_b_rafael.m',253,0)">line 253</a>)
+                posLPs = buscaLPs( model, 'dset2', [0 0], M(contM), 2, limiar,
+                neigs, nome );
+} 
